@@ -1,0 +1,441 @@
+Season,Club,shots_on_target,shots_on_target_per90
+2000-2001,Arsenal,267,7.03
+2000-2001,Aston Villa,166,4.37
+2000-2001,Bradford City,123,3.24
+2000-2001,Charlton Ath,216,5.68
+2000-2001,Chelsea,220,5.79
+2000-2001,Coventry City,160,4.21
+2000-2001,Derby County,145,3.82
+2000-2001,Everton,189,4.97
+2000-2001,Ipswich Town,205,5.39
+2000-2001,Leeds United,229,6.03
+2000-2001,Leicester City,179,4.71
+2000-2001,Liverpool,228,6.00
+2000-2001,Manchester City,165,4.34
+2000-2001,Manchester Utd,251,6.61
+2000-2001,Middlesbrough,175,4.61
+2000-2001,Newcastle Utd,183,4.82
+2000-2001,Southampton,173,4.55
+2000-2001,Sunderland,195,5.13
+2000-2001,Tottenham,185,4.87
+2000-2001,West Ham,217,5.71
+2001-2002,Arsenal,292,7.68
+2001-2002,Aston Villa,202,5.32
+2001-2002,Blackburn,253,6.66
+2001-2002,Bolton,205,5.39
+2001-2002,Charlton Ath,212,5.58
+2001-2002,Chelsea,237,6.24
+2001-2002,Derby County,163,4.29
+2001-2002,Everton,213,5.61
+2001-2002,Fulham,180,4.74
+2001-2002,Ipswich Town,231,6.08
+2001-2002,Leeds United,267,7.03
+2001-2002,Leicester City,167,4.39
+2001-2002,Liverpool,262,6.89
+2001-2002,Manchester Utd,289,7.61
+2001-2002,Middlesbrough,142,3.74
+2001-2002,Newcastle Utd,265,6.97
+2001-2002,Southampton,168,4.42
+2001-2002,Sunderland,190,5.00
+2001-2002,Tottenham,212,5.58
+2001-2002,West Ham,210,5.53
+2002-2003,Arsenal,259,6.82
+2002-2003,Aston Villa,196,5.16
+2002-2003,Birmingham City,141,3.71
+2002-2003,Blackburn,174,4.58
+2002-2003,Bolton,152,4.00
+2002-2003,Charlton Ath,156,4.11
+2002-2003,Chelsea,222,5.84
+2002-2003,Everton,182,4.79
+2002-2003,Fulham,182,4.79
+2002-2003,Leeds United,176,4.63
+2002-2003,Liverpool,209,5.50
+2002-2003,Manchester City,168,4.42
+2002-2003,Manchester Utd,235,6.18
+2002-2003,Middlesbrough,139,3.66
+2002-2003,Newcastle Utd,221,5.82
+2002-2003,Southampton,191,5.03
+2002-2003,Sunderland,142,3.74
+2002-2003,Tottenham,166,4.37
+2002-2003,West Brom,167,4.39
+2002-2003,West Ham,185,4.87
+2003-2004,Arsenal,235,6.18
+2003-2004,Aston Villa,182,4.79
+2003-2004,Birmingham City,161,4.24
+2003-2004,Blackburn,184,4.84
+2003-2004,Bolton,212,5.58
+2003-2004,Charlton Ath,154,4.05
+2003-2004,Chelsea,216,5.68
+2003-2004,Everton,160,4.21
+2003-2004,Fulham,154,4.05
+2003-2004,Leeds United,134,3.53
+2003-2004,Leicester City,168,4.42
+2003-2004,Liverpool,221,5.82
+2003-2004,Manchester City,198,5.21
+2003-2004,Manchester Utd,182,4.79
+2003-2004,Middlesbrough,182,4.79
+2003-2004,Newcastle Utd,178,4.68
+2003-2004,Portsmouth,167,4.39
+2003-2004,Southampton,175,4.61
+2003-2004,Tottenham,186,4.89
+2003-2004,Wolves,177,4.66
+2004-2005,Arsenal,301,7.92
+2004-2005,Aston Villa,213,5.61
+2004-2005,Birmingham City,158,4.16
+2004-2005,Blackburn,196,5.16
+2004-2005,Bolton,260,6.84
+2004-2005,Charlton Ath,171,4.50
+2004-2005,Chelsea,310,8.16
+2004-2005,Crystal Palace,191,5.03
+2004-2005,Everton,173,4.55
+2004-2005,Fulham,187,4.92
+2004-2005,Liverpool,245,6.45
+2004-2005,Manchester City,213,5.61
+2004-2005,Manchester Utd,337,8.87
+2004-2005,Middlesbrough,242,6.37
+2004-2005,Newcastle Utd,240,6.32
+2004-2005,Norwich City,183,4.82
+2004-2005,Portsmouth,173,4.55
+2004-2005,Southampton,173,4.55
+2004-2005,Tottenham,242,6.37
+2004-2005,West Brom,191,5.03
+2005-2006,Arsenal,275,7.24
+2005-2006,Aston Villa,189,4.97
+2005-2006,Birmingham City,171,4.50
+2005-2006,Blackburn,181,4.76
+2005-2006,Bolton,204,5.37
+2005-2006,Charlton Ath,189,4.97
+2005-2006,Chelsea,279,7.34
+2005-2006,Everton,206,5.42
+2005-2006,Fulham,180,4.74
+2005-2006,Liverpool,283,7.45
+2005-2006,Manchester City,206,5.42
+2005-2006,Manchester Utd,286,7.53
+2005-2006,Middlesbrough,211,5.55
+2005-2006,Newcastle Utd,209,5.50
+2005-2006,Portsmouth,227,5.97
+2005-2006,Sunderland,180,4.74
+2005-2006,Tottenham,231,6.08
+2005-2006,West Brom,155,4.08
+2005-2006,West Ham,164,4.32
+2005-2006,Wigan Athletic,211,5.55
+2006-2007,Arsenal,249,6.55
+2006-2007,Aston Villa,228,6.00
+2006-2007,Blackburn,211,5.55
+2006-2007,Bolton,195,5.13
+2006-2007,Charlton Ath,172,4.53
+2006-2007,Chelsea,235,6.18
+2006-2007,Everton,200,5.26
+2006-2007,Fulham,177,4.66
+2006-2007,Liverpool,249,6.55
+2006-2007,Manchester City,179,4.71
+2006-2007,Manchester Utd,300,7.89
+2006-2007,Middlesbrough,169,4.45
+2006-2007,Newcastle Utd,182,4.79
+2006-2007,Portsmouth,195,5.13
+2006-2007,Reading,167,4.39
+2006-2007,Sheffield Utd,193,5.08
+2006-2007,Tottenham,214,5.63
+2006-2007,Watford,144,3.79
+2006-2007,West Ham,149,3.92
+2006-2007,Wigan Athletic,188,4.95
+2007-2008,Arsenal,250,6.58
+2007-2008,Aston Villa,200,5.26
+2007-2008,Birmingham City,178,4.68
+2007-2008,Blackburn,219,5.76
+2007-2008,Bolton,162,4.26
+2007-2008,Chelsea,207,5.45
+2007-2008,Derby County,141,3.71
+2007-2008,Everton,190,5.00
+2007-2008,Fulham,174,4.58
+2007-2008,Liverpool,266,7.00
+2007-2008,Manchester City,169,4.45
+2007-2008,Manchester Utd,301,7.92
+2007-2008,Middlesbrough,181,4.76
+2007-2008,Newcastle Utd,174,4.58
+2007-2008,Portsmouth,185,4.87
+2007-2008,Reading,183,4.82
+2007-2008,Sunderland,153,4.03
+2007-2008,Tottenham,236,6.21
+2007-2008,West Ham,179,4.71
+2007-2008,Wigan Athletic,184,4.84
+2008-2009,Arsenal,231,6.08
+2008-2009,Aston Villa,180,4.74
+2008-2009,Blackburn,153,4.03
+2008-2009,Bolton,185,4.87
+2008-2009,Chelsea,285,7.50
+2008-2009,Everton,200,5.26
+2008-2009,Fulham,173,4.55
+2008-2009,Hull City,160,4.21
+2008-2009,Liverpool,269,7.08
+2008-2009,Manchester City,213,5.61
+2008-2009,Manchester Utd,272,7.16
+2008-2009,Middlesbrough,153,4.03
+2008-2009,Newcastle Utd,149,3.92
+2008-2009,Portsmouth,163,4.29
+2008-2009,Stoke City,120,3.16
+2008-2009,Sunderland,164,4.32
+2008-2009,Tottenham,209,5.50
+2008-2009,West Brom,182,4.79
+2008-2009,West Ham,180,4.74
+2008-2009,Wigan Athletic,183,4.82
+2009-2010,Arsenal,237,6.24
+2009-2010,Aston Villa,164,4.32
+2009-2010,Birmingham City,156,4.11
+2009-2010,Blackburn,166,4.37
+2009-2010,Bolton,171,4.50
+2009-2010,Burnley,154,4.05
+2009-2010,Chelsea,284,7.47
+2009-2010,Everton,206,5.42
+2009-2010,Fulham,141,3.71
+2009-2010,Hull City,120,3.16
+2009-2010,Liverpool,192,5.05
+2009-2010,Manchester City,199,5.24
+2009-2010,Manchester Utd,246,6.47
+2009-2010,Portsmouth,149,3.92
+2009-2010,Stoke City,119,3.13
+2009-2010,Sunderland,152,4.00
+2009-2010,Tottenham,230,6.05
+2009-2010,West Ham,187,4.92
+2009-2010,Wigan Athletic,182,4.79
+2009-2010,Wolves,142,3.74
+2010-2011,Arsenal,243,6.39
+2010-2011,Aston Villa,167,4.39
+2010-2011,Birmingham City,122,3.21
+2010-2011,Blackburn,143,3.76
+2010-2011,Blackpool,171,4.50
+2010-2011,Bolton,176,4.63
+2010-2011,Chelsea,241,6.34
+2010-2011,Everton,192,5.05
+2010-2011,Fulham,182,4.79
+2010-2011,Liverpool,204,5.37
+2010-2011,Manchester City,182,4.79
+2010-2011,Manchester Utd,218,5.74
+2010-2011,Newcastle Utd,179,4.71
+2010-2011,Stoke City,146,3.84
+2010-2011,Sunderland,159,4.18
+2010-2011,Tottenham,202,5.32
+2010-2011,West Brom,183,4.82
+2010-2011,West Ham,176,4.63
+2010-2011,Wigan Athletic,175,4.61
+2010-2011,Wolves,145,3.82
+2011-2012,Arsenal,230,6.05
+2011-2012,Aston Villa,146,3.84
+2011-2012,Blackburn,150,3.95
+2011-2012,Bolton,159,4.18
+2011-2012,Chelsea,232,6.11
+2011-2012,Everton,166,4.37
+2011-2012,Fulham,197,5.18
+2011-2012,Liverpool,210,5.53
+2011-2012,Manchester City,262,6.89
+2011-2012,Manchester Utd,255,6.71
+2011-2012,Newcastle Utd,157,4.13
+2011-2012,Norwich City,171,4.50
+2011-2012,QPR,156,4.11
+2011-2012,Stoke City,105,2.76
+2011-2012,Sunderland,147,3.87
+2011-2012,Swansea City,149,3.92
+2011-2012,Tottenham,240,6.32
+2011-2012,West Brom,184,4.84
+2011-2012,Wigan Athletic,161,4.24
+2011-2012,Wolves,152,4.00
+2012-2013,Arsenal,272,7.16
+2012-2013,Aston Villa,176,4.63
+2012-2013,Chelsea,257,6.76
+2012-2013,Everton,266,7.00
+2012-2013,Fulham,205,5.39
+2012-2013,Liverpool,297,7.82
+2012-2013,Manchester City,285,7.50
+2012-2013,Manchester Utd,243,6.39
+2012-2013,Newcastle Utd,208,5.47
+2012-2013,Norwich City,177,4.66
+2012-2013,QPR,183,4.82
+2012-2013,Reading,146,3.84
+2012-2013,Southampton,207,5.45
+2012-2013,Stoke City,144,3.79
+2012-2013,Sunderland,164,4.32
+2012-2013,Swansea City,209,5.50
+2012-2013,Tottenham,284,7.47
+2012-2013,West Brom,200,5.26
+2012-2013,West Ham,206,5.42
+2012-2013,Wigan Athletic,209,5.50
+2013-2014,Arsenal,254,6.68
+2013-2014,Aston Villa,136,3.58
+2013-2014,Cardiff City,125,3.29
+2013-2014,Chelsea,281,7.39
+2013-2014,Crystal Palace,142,3.74
+2013-2014,Everton,235,6.18
+2013-2014,Fulham,149,3.92
+2013-2014,Hull City,129,3.39
+2013-2014,Liverpool,300,7.89
+2013-2014,Manchester City,239,6.29
+2013-2014,Manchester Utd,234,6.16
+2013-2014,Newcastle Utd,185,4.87
+2013-2014,Norwich City,145,3.82
+2013-2014,Southampton,181,4.76
+2013-2014,Stoke City,142,3.74
+2013-2014,Sunderland,135,3.55
+2013-2014,Swansea City,163,4.29
+2013-2014,Tottenham,228,6.00
+2013-2014,West Brom,145,3.82
+2013-2014,West Ham,123,3.24
+2014-2015,Arsenal,226,5.95
+2014-2015,Aston Villa,127,3.34
+2014-2015,Burnley,124,3.26
+2014-2015,Chelsea,209,5.50
+2014-2015,Crystal Palace,139,3.66
+2014-2015,Everton,167,4.39
+2014-2015,Hull City,131,3.45
+2014-2015,Leicester City,137,3.61
+2014-2015,Liverpool,193,5.08
+2014-2015,Manchester City,228,6.00
+2014-2015,Manchester Utd,177,4.66
+2014-2015,Newcastle Utd,140,3.68
+2014-2015,QPR,149,3.92
+2014-2015,Southampton,167,4.39
+2014-2015,Stoke City,136,3.58
+2014-2015,Sunderland,129,3.39
+2014-2015,Swansea City,146,3.84
+2014-2015,Tottenham,171,4.50
+2014-2015,West Brom,132,3.47
+2014-2015,West Ham,153,4.03
+2015-2016,Arsenal,210,5.53
+2015-2016,Aston Villa,110,2.89
+2015-2016,Bournemouth,143,3.76
+2015-2016,Chelsea,172,4.53
+2015-2016,Crystal Palace,153,4.03
+2015-2016,Everton,174,4.58
+2015-2016,Leicester City,179,4.71
+2015-2016,Liverpool,199,5.24
+2015-2016,Manchester City,210,5.53
+2015-2016,Manchester Utd,144,3.79
+2015-2016,Newcastle Utd,150,3.95
+2015-2016,Norwich City,130,3.42
+2015-2016,Southampton,165,4.34
+2015-2016,Stoke City,127,3.34
+2015-2016,Sunderland,173,4.55
+2015-2016,Swansea City,135,3.55
+2015-2016,Tottenham,250,6.58
+2015-2016,Watford,139,3.66
+2015-2016,West Brom,108,2.84
+2015-2016,West Ham,186,4.89
+2016-2017,Arsenal,201,5.29
+2016-2017,Bournemouth,160,4.21
+2016-2017,Burnley,121,3.18
+2016-2017,Chelsea,205,5.39
+2016-2017,Crystal Palace,137,3.61
+2016-2017,Everton,192,5.05
+2016-2017,Hull City,126,3.32
+2016-2017,Leicester City,145,3.82
+2016-2017,Liverpool,236,6.21
+2016-2017,Manchester City,215,5.66
+2016-2017,Manchester Utd,207,5.45
+2016-2017,Middlesbrough,98,2.58
+2016-2017,Southampton,179,4.71
+2016-2017,Stoke City,135,3.55
+2016-2017,Sunderland,122,3.21
+2016-2017,Swansea City,145,3.82
+2016-2017,Tottenham,257,6.76
+2016-2017,Watford,143,3.76
+2016-2017,West Brom,124,3.26
+2016-2017,West Ham,136,3.58
+2017-2018,Arsenal,227,5.97
+2017-2018,Bournemouth,153,4.03
+2017-2018,Brighton,113,2.97
+2017-2018,Burnley,126,3.32
+2017-2018,Chelsea,209,5.50
+2017-2018,Crystal Palace,133,3.50
+2017-2018,Everton,108,2.84
+2017-2018,Huddersfield,105,2.76
+2017-2018,Leicester City,137,3.61
+2017-2018,Liverpool,228,6.00
+2017-2018,Manchester City,255,6.71
+2017-2018,Manchester Utd,176,4.63
+2017-2018,Newcastle Utd,152,4.00
+2017-2018,Southampton,138,3.63
+2017-2018,Stoke City,122,3.21
+2017-2018,Swansea City,94,2.47
+2017-2018,Tottenham,212,5.58
+2017-2018,Watford,128,3.37
+2017-2018,West Brom,106,2.79
+2017-2018,West Ham,128,3.37
+2018-2019,Arsenal,159,4.18
+2018-2019,Bournemouth,155,4.08
+2018-2019,Brighton,100,2.63
+2018-2019,Burnley,114,3.00
+2018-2019,Cardiff City,114,3.00
+2018-2019,Chelsea,190,5.00
+2018-2019,Crystal Palace,133,3.50
+2018-2019,Everton,159,4.18
+2018-2019,Fulham,135,3.55
+2018-2019,Huddersfield,115,3.03
+2018-2019,Leicester City,173,4.55
+2018-2019,Liverpool,216,5.68
+2018-2019,Manchester City,253,6.66
+2018-2019,Manchester Utd,210,5.53
+2018-2019,Newcastle Utd,137,3.61
+2018-2019,Southampton,156,4.11
+2018-2019,Tottenham,187,4.92
+2018-2019,Watford,147,3.87
+2018-2019,West Ham,148,3.89
+2018-2019,Wolves,140,3.68
+2019-2020,Arsenal,144,3.79
+2019-2020,Aston Villa,146,3.84
+2019-2020,Bournemouth,116,3.05
+2019-2020,Brighton,137,3.61
+2019-2020,Burnley,124,3.26
+2019-2020,Chelsea,210,5.53
+2019-2020,Crystal Palace,116,3.05
+2019-2020,Everton,155,4.08
+2019-2020,Leicester City,181,4.76
+2019-2020,Liverpool,222,5.84
+2019-2020,Manchester City,246,6.47
+2019-2020,Manchester Utd,200,5.26
+2019-2020,Newcastle Utd,127,3.34
+2019-2020,Norwich City,124,3.26
+2019-2020,Sheffield Utd,109,2.87
+2019-2020,Southampton,169,4.45
+2019-2020,Tottenham,155,4.08
+2019-2020,Watford,114,3.00
+2019-2020,West Ham,157,4.13
+2019-2020,Wolves,142,3.74
+2020-2021,Arsenal,141,3.71
+2020-2021,Aston Villa,179,4.71
+2020-2021,Brighton,129,3.39
+2020-2021,Burnley,125,3.29
+2020-2021,Chelsea,194,5.11
+2020-2021,Crystal Palace,129,3.39
+2020-2021,Everton,144,3.79
+2020-2021,Fulham,123,3.24
+2020-2021,Leeds United,196,5.16
+2020-2021,Leicester City,172,4.53
+2020-2021,Liverpool,201,5.29
+2020-2021,Manchester City,213,5.61
+2020-2021,Manchester Utd,197,5.18
+2020-2021,Newcastle Utd,130,3.42
+2020-2021,Sheffield Utd,92,2.42
+2020-2021,Southampton,157,4.13
+2020-2021,Tottenham,166,4.37
+2020-2021,West Brom,107,2.82
+2020-2021,West Ham,158,4.16
+2020-2021,Wolves,149,3.92
+2021-2022,Arsenal,185,4.87
+2021-2022,Aston Villa,159,4.18
+2021-2022,Brentford,139,3.66
+2021-2022,Brighton,140,3.68
+2021-2022,Burnley,117,3.08
+2021-2022,Chelsea,199,5.24
+2021-2022,Crystal Palace,141,3.71
+2021-2022,Everton,127,3.34
+2021-2022,Leeds United,142,3.74
+2021-2022,Leicester City,163,4.29
+2021-2022,Liverpool,237,6.24
+2021-2022,Manchester City,239,6.29
+2021-2022,Manchester Utd,179,4.71
+2021-2022,Newcastle Utd,140,3.68
+2021-2022,Norwich City,104,2.74
+2021-2022,Southampton,159,4.18
+2021-2022,Tottenham,186,4.89
+2021-2022,Watford,126,3.32
+2021-2022,West Ham,143,3.76
+2021-2022,Wolves,134,3.53
