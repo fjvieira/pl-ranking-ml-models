@@ -210,7 +210,7 @@ run_breusch_pagan_test(step_season_model_01_22_bc)
 
 ols_vif_tol(step_season_model_01_22_bc)
 
-run_breusch_godfrey_test(step_season_mode_01_22_bc)
+run_breusch_godfrey_test(step_season_model_01_22_bc)
 
 var(step_season_model_01_22_bc$residuals)
 

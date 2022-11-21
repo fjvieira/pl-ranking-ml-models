@@ -56,6 +56,14 @@ logLik(season_model_10_21)
 
 calc_qui2(season_model_10_21)
 
+#z-wald
+zWald_10_21 <- (summary(season_model_10_21)$coefficients /
+                              summary(season_model_10_21)$standard.errors)
+
+#p-value
+round((pnorm(abs(zWald_10_21), lower.tail = F) * 2), 4)
+
+#Predict
 season_consolidated_10_21$prediction <- predict(season_model_10_21,
   newdata = season_consolidated_10_21,
   type = "class"
@@ -77,10 +85,11 @@ calc_qui2(step_season_10_21)
 zWald_step_season_10_21 <- (summary(step_season_10_21)$coefficients /
   summary(step_season_10_21)$standard.errors)
 
-# p value
+#p-value
 round((pnorm(abs(zWald_step_season_10_21), lower.tail = F) * 2), 4)
 
-season_consolidated_10_21$prediction_step <- predict(season_model_10_21,
+#Predict
+season_consolidated_10_21$prediction_step <- predict(step_season_10_21,
   newdata = season_consolidated_10_21,
   type = "class"
 )
@@ -92,7 +101,7 @@ realXpred_step <- table(season_consolidated_10_21$Rk, season_consolidated_10_21$
 
 
 # Conclusion 1: after stepwise only Turnover remains as an independent var
-# Conclusion 2: High AIC (1178.42) and low accuracy (0.46), 
+# Conclusion 2: High AIC (1178.42) and low accuracy (0.15), 
 # Conclusion 3: z-wald out of scale for some categories
 
 #----------------------------------------------------------------
@@ -125,6 +134,14 @@ logLik(season_model_10_21)
 
 calc_qui2(season_model_10_21)
 
+#z-wald
+zWald_10_21 <- (summary(season_model_10_21)$coefficients /
+                  summary(season_model_10_21)$standard.errors)
+
+#p-value
+round((pnorm(abs(zWald_10_21), lower.tail = F) * 2), 4)
+
+#Predict
 season_consolidated_10_21$prediction <- predict(season_model_10_21,
   newdata = season_consolidated_10_21,
   type = "class"
@@ -147,17 +164,14 @@ calc_qui2(step_season_10_21)
 zWald_step_season_10_21 <- (summary(step_season_10_21)$coefficients /
   summary(step_season_10_21)$standard.errors)
 
-# p value
+#p-value
 round((pnorm(abs(zWald_step_season_10_21), lower.tail = F) * 2), 4)
 
-
-
-season_consolidated_10_21$prediction_step <- predict(season_model_10_21,
+#Predict
+season_consolidated_10_21$prediction_step <- predict(step_season_10_21,
   newdata = season_consolidated_10_21,
   type = "class"
 )
-
-
 
 realXpred_step <- table(season_consolidated_10_21$Rkgroup, season_consolidated_10_21$prediction_step)
 
@@ -166,7 +180,7 @@ realXpred_step <- table(season_consolidated_10_21$Rkgroup, season_consolidated_1
 
 summary(season_consolidated_10_21[c("Rkgroup", "prediction_step")])
 
-# Conclusion: A model with 83% of accuracy for predict RkGroups were found.
+# Conclusion: A model with 78% of accuracy for predict RkGroups were found.
 #----------------------------------------------------------------------
 # Model for groups in 2001 to 2022 seasons - Without business data.
 
@@ -194,6 +208,14 @@ logLik(season_model_01_22)
 
 calc_qui2(season_model_01_22)
 
+#z-wald
+zWald_season_01_22 <- (summary(season_model_01_22)$coefficients /
+                              summary(season_model_01_22)$standard.errors)
+
+#p-value
+round((pnorm(abs(zWald_season_01_22), lower.tail = F) * 2), 4)
+
+#Predict
 season_consolidated_01_22$prediction <- predict(season_model_01_22,
   newdata = season_consolidated_01_22,
   type = "class"
@@ -216,14 +238,14 @@ calc_qui2(step_season_01_22)
 zWald_step_season_01_22 <- (summary(step_season_01_22)$coefficients /
                               summary(step_season_01_22)$standard.errors)
 
-# p value
+#p-value
 round((pnorm(abs(zWald_step_season_01_22), lower.tail = F) * 2), 4)
 
+#Predict
 season_consolidated_01_22$prediction_step <- predict(step_season_01_22,
   newdata = season_consolidated_01_22,
   type = "class"
 )
-
 
 realXpred_step <- table(season_consolidated_01_22$Rkgroup, season_consolidated_01_22$prediction_step)
 
